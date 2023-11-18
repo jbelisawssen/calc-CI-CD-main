@@ -1,10 +1,9 @@
-"""
-Un script python prenant 3 arguments dont le premier est l'opération voulue et les deux suivants 
-les deux entiers 
-"""
 
 import calc
 import sys
+
+#first commit1 
+print("Bonjour Jb Saoussen.\n")
 
 print("Bienvenue dans cette petite calculatrice sous Python pour entier.\n")
 
