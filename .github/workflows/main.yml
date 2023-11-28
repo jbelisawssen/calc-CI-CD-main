@@ -3,7 +3,7 @@ name: Update Docker app-calc
 on:
   push:
     branches:
-      - 'main'
+      - 'workflow'
 
 jobs:
   docker:

@@ -9,7 +9,7 @@ import sys
 #first commit1 
 print("Bonjour Jb Saoussen.\n")
 
-print(" dans cette petite calculatrice sous Python pour entier.\n")
+print(" danccs cette petite calculatrice sous Python pour entier.\n")
 
 
 def run_calc():
