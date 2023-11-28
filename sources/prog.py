@@ -6,7 +6,10 @@ les deux entiers
 import calc
 import sys
 
-print("Bienvenue dans cette petite calculatrice sous Python pour entier.\n")
+#first commit1 
+print("Bonjour Jb Saoussen.\n")
+
+print(" dans cette petite calculatrice sous Python pour entier.\n")
 
 
 def run_calc():
