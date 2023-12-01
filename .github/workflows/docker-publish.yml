@@ -32,4 +32,3 @@ jobs:
           file: ./sources/Dockerfile
           push: true
           tags: jbelisawssen23/devops:1.0.${{github.run_number}}
-
