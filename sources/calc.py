@@ -1,5 +1,5 @@
 """
-La librairie calc permet de faire les opérations basiques de calcul entre deux entiers.
+La librairie calc pvvermet de faire les opérations basiques de calcul entre deux entiers.
 """
 
 def add(arg1,arg2):
