@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 La librairie calc pvvermet de faire les opérations basiques de calcul entre deux entiers.
 """
@@ -49,6 +48,4 @@ def ope(operateur,arg1,arg2):
         return div(arg1,arg2)
     else:
         print("L'opérateur {} n'est pas reconnu.".format(operateur))
-=======
 print("Boxxnjour Jvb Saoussen.\n")
->>>>>>> c89db7ad233b859c3f2ed8141be3426a8afc2ec5
