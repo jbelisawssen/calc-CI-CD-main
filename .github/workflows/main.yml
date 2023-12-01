@@ -2,7 +2,7 @@ name: Python application
 
 on:
   pull_request:
-    branches: [ "main" ]
+    branches: [ "devops" ]
 jobs:
   build:
     runs-on: ubuntu-latest
